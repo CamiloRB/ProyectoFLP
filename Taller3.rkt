@@ -2,7 +2,6 @@
 
 ;CAMILO REBELLON GIRON 1556073-3743
 ;MATEO ECHEVERRY 1860098-3743
-;LUIS ROMERO 1866236-3743
 
 ;;**************Especificacioneslexicas***************  
 ;<digitoDecimal> ::= <digito> <digito>*
